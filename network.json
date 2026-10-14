@@ -1,0 +1,29 @@
+
+{
+  "links": {
+    "Link A": {
+      "capacity": 50,
+      "traffic": 30,
+      "delay": 15,
+      "packet_loss": 0.5
+    },
+    "Link B": {
+      "capacity": 40,
+      "traffic": 25,
+      "delay": 18,
+      "packet_loss": 0.8
+    },
+    "Link C": {
+      "capacity": 30,
+      "traffic": 27,
+      "delay": 30,
+      "packet_loss": 2.5
+    },
+    "Link D": {
+      "capacity": 60,
+      "traffic": 32,
+      "delay": 12,
+      "packet_loss": 0.3
+    }
+  }
+}
